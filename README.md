@@ -22,5 +22,5 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPereira97&layout=compact&theme=github_dark)](https://github.com/HugoPereira97)
 
 ## 🔗 Contacto
-- Email: [dhugo045@proton.me](mailto:dhugo045@proton.me)  
+- Email: `dhugo045@proton.me`
 - LinkedIn: [Hugo Pereira](https://linkedin.com)
