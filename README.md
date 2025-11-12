@@ -17,9 +17,20 @@
 
 ## 📊 Estatísticas do GitHub
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HugoPereira97&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPereira97&layout=compact&theme=github_dark)](https://github.com/HugoPereira97)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=HugoPereira97&theme=onedark&column=4" alt="Trophies" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/HugoPereira97">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPereira97&layout=compact&theme=github_dark" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🔗 Contacto
 - Email: `dhugo045@proton.me`
