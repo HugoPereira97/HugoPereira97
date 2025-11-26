@@ -34,4 +34,4 @@
 
 ## 🔗 Contacto
 - Email: `dhugo045@proton.me`
-- LinkedIn: [Hugo Pereira](https://linkedin.com)
+- LinkedIn: [Hugo Pereira](https://www.linkedin.com/in/hugo-pereira-49b68b397/)
