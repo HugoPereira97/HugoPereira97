@@ -1,7 +1,6 @@
 # 👨‍💻 Hugo Pereira
 
 - 🎓 Atualmente estudante de Engenharia de Sistemas Informáticos no IPCA
-- 💻 Aspirante a Full-Stack Web Developer
 - 📚 Formação em Programação e Gestão de Sistemas Informáticos (Curso Técnico)
 
 ---
