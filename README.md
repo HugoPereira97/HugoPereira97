@@ -12,7 +12,6 @@
 
 ## 🤝 Disponível para
 - Colaboração em projetos significativos
-- Estágio onde possa contribuir e aprender
 
 ## 📊 Estatísticas do GitHub
 
