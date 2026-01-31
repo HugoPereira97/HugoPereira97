@@ -1,19 +1,14 @@
 # 👨‍💻 Hugo Pereira
 
-- 🎓 Atualmente estudante de Engenharia de Sistemas Informáticos no IPCA
-- 📚 Formação em Programação e Gestão de Sistemas Informáticos (Curso Técnico)
+- Atualmente estudante de Engenharia de Sistemas Informáticos no IPCA
+- Formação em Programação e Gestão de Sistemas Informáticos (Curso Técnico)
 
 ---
 
-## 🎯 Foco Atual
-- Aprofundar conhecimentos em desenvolvimento full-stack
-- Construir projetos com arquitetura bem planeada
-- Praticar princípios de clean code e boas práticas
-
-## 🤝 Disponível para
+## Disponível para
 - Colaboração em projetos significativos
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <table>
   <tr>
@@ -30,6 +25,6 @@
   </tr>
 </table>
 
-## 🔗 Contacto
+## Contacto
 - Email: `dhugo045@proton.me`
 - LinkedIn: [Hugo Pereira](https://www.linkedin.com/in/hugo-pereira-49b68b397/)
